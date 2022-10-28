@@ -1,0 +1,2 @@
+# myblog
+pics_bed
